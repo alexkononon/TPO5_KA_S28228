@@ -46,7 +46,6 @@ public class SearchServlet extends HttpServlet {
         String type = request.getParameter("type");
         List<Car> cars = new ArrayList<>();
         try (PreparedStatement ps = conn.prepareStatement("SELECT * FROM Cars WHERE type = ?")) {
-            System.out.println("hej hej");
             ps.setString(1, type);
             try (ResultSet rs = ps.executeQuery()) {
                 while (rs.next()) {
