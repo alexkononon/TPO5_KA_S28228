@@ -1,0 +1,24 @@
+personal,Toyota,2021,6.5
+truck,Volvo,2021,12.0
+delivery,Mercedes,2021,8.0
+F1,Ferrari,2021,20.0
+personal,Ford,2020,7.0
+truck,Scania,2020,11.0
+delivery,Renault,2020,7.5
+F1,Red Bull,2020,19.0
+personal,Honda,2022,5.5
+truck,MAN,2022,10.5
+delivery,Fiat,2022,7.0
+F1,McLaren,2022,18.5
+personal,BMW,2021,6.0
+truck,Iveco,2021,11.0
+delivery,Ford,2021,7.2
+F1,Mercedes,2021,19.5
+personal,Audi,2020,6.3
+truck,DAF,2020,12.5
+delivery,Nissan,2020,8.2
+F1,AlphaTauri,2020,18.0
+personal,Skoda,2022,5.8
+truck,Tatra,2022,11.5
+delivery,Peugeot,2022,7.3
+F1,Haas,2022,19.8

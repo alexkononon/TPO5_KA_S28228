@@ -2,11 +2,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Hello World</title>
+  <meta charset="UTF-8">
+  <title>Search Cars</title>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+<h1>Search Information About Vehicles</h1>
+<form action="request-servlet" method="post">
+  <label for="type">Select vehicle type:</label>
+  <select id="type" name="type" required>
+    <option value="personal">personal</option>
+    <option value="truck">truck</option>
+    <option value="delivery">delivery</option>
+    <option value="F1">F1</option>
+  </select>
+  <button type="submit">Search</button>
+</form>
 </body>
 </html>
+
