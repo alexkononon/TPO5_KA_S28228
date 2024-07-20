@@ -23,7 +23,7 @@ Java Servlets: Used for handling HTTP requests and responses. Servlets form the 
 
 #### Clone the Repository
 ```
-git clone https://github.com/your-repo/TPO5_KA_S28228.git
+git clone https://github.com/alexkononon/TPO5_KA_S28228.git
 ```
 
 #### Navigate to the project directory
