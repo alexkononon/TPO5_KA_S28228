@@ -35,9 +35,6 @@ cd TPO5_KA_S28228
 ```
 mvn clean package
 ```
-#### Deploy the WAR File
-
-#### Copy the generated WAR file (target/Car-Management-System.war) to the webapps directory of your Apache Tomcat server
 
 #### Set up a connection to the database and create a table in it
 
